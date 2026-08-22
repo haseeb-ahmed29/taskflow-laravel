@@ -1,0 +1,6 @@
+{
+  "name": "atelier/taskflow-laravel",
+  "require": {
+    "php": ">=8.1"
+  }
+}
